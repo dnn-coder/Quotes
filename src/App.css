@@ -57,11 +57,12 @@
 }
 
 .buttonChange {
-    padding: 10px;
+    padding: 15px;
     background-color: #192a56;
     border: none;
     color: violet;
     float: right;
+    border-radius: 2px;
 }
 
 .quote {
